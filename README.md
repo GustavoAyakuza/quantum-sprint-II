@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulação Quântica de Tomada de Decisão sob Incerteza
 
 ## Integrantes
@@ -77,3 +78,6 @@ O notebook simula um circuito quântico com dois qubits:
 - Isso ocorre devido ao emaranhamento: ao medir o primeiro qubit, o segundo colapsa para o mesmo valor.
 - A distribuição entre `00` e `11` deve ser aproximadamente igual, refletindo a incerteza e a simetria do circuito.
 
+=======
+# quantum-sprint-II
+>>>>>>> 5e0f80a8f694191e414ec3ee0f5aaceddf38c114
